@@ -1,0 +1,134 @@
+{
+  "familias": [
+    "Papas fritas",
+    "Chizitos",
+    "Palitos",
+    "Maní",
+    "Conitos",
+    "Tutucas",
+    "Otros productos"
+  ],
+  "productos": [
+    {
+      "slug": "papas-clasicas",
+      "name": "Papas fritas clásicas",
+      "family": 0,
+      "image": "papas.png",
+      "weight": "170 g",
+      "desc": "Un clásico para compartir. Encontrá tu momento con las papas fritas clásicas Zíngaras.",
+      "label": "Papas fritas clásicas",
+      "source": "Envase original: Papas clasicas_170g.png.",
+      "other": "El catálogo también registra presentaciones de 1 kg, 500 g, 140 g, 65 g y 30 g. La presentación de 170 g está documentada en el envase recibido; disponibilidad a confirmar."
+    },
+    {
+      "slug": "papas-pay",
+      "name": "Papas pay",
+      "family": 0,
+      "image": "papas-pay.png",
+      "weight": "1 kg",
+      "desc": "Finita, crocante y con su propia forma de sumar sabor al momento. Descubrí Papas Pay Zíngaras.",
+      "label": "Papas fritas pay",
+      "source": "Envase original: papas pay_500g.png; catálogo, página 1.",
+      "other": "El envase recibido muestra 1 kg, aunque su archivo se llama papas pay_500g.png. Se utiliza el gramaje impreso. El catálogo también registra 110 g. Consultar disponibilidad."
+    },
+    {
+      "slug": "chizitos-queso",
+      "name": "Chizitos sabor queso",
+      "family": 1,
+      "image": "chizitos.png",
+      "weight": "85 g",
+      "desc": "Sabor a queso y una forma que invita a seguir. Elegí tus chizitos Zíngaras.",
+      "label": "Palitos de maíz horneados, sabor a queso",
+      "source": "Envase original: Zingaras_85g_Chizitos.png; catálogo, página 2.",
+      "other": "Chizitos es el nombre del catálogo y la familia provisional. El envase dice «Palitos de maíz horneados, sabor a queso». El catálogo también registra 370 g y 1 kg."
+    },
+    {
+      "slug": "palitos-fritos",
+      "name": "Palitos fritos",
+      "family": 2,
+      "image": "palitos.png",
+      "weight": "390 g",
+      "desc": "Una forma inconfundible de acompañar la charla. Palitos fritos para elegir y compartir.",
+      "label": "Palitos fritos",
+      "source": "Envase original: Palitos fritos_390g.png; catálogo, página 2.",
+      "other": "El catálogo registra palitos salados de 1 kg, 390 g y 90 g. Disponibilidad a confirmar."
+    },
+    {
+      "slug": "mani-frito-salado",
+      "name": "Maní frito salado",
+      "family": 3,
+      "image": "mani-salado.png",
+      "weight": "150 g",
+      "desc": "Maní frito salado con piel. Un favorito para sumar a la mesa.",
+      "label": "Maní frito salado",
+      "source": "Envase original: zingaras MANI FRITO SALADO.png; catálogo, página 4.",
+      "other": "El catálogo registra maní frito con sal con piel en 1 kg, 500 g y 150 g."
+    },
+    {
+      "slug": "mani-frito-pelado",
+      "name": "Maní frito pelado",
+      "family": 3,
+      "image": "mani-pelado.png",
+      "weight": "150 g",
+      "desc": "Maní frito pelado salado. Otra elección dentro de la variedad Zíngaras.",
+      "label": "Maní frito pelado salado",
+      "source": "Envase original: zingaras MANI FRITO PELADO.png; catálogo, página 4.",
+      "other": "El catálogo registra maní frito con sal sin piel en 1 kg, 500 g y 150 g."
+    },
+    {
+      "slug": "mani-crocante-pizza",
+      "name": "Maní crocante pizza",
+      "family": 3,
+      "image": "mani-pizza.png",
+      "weight": "150 g",
+      "desc": "Crocante y con sabor a pizza. Dale otra vuelta a tu elección de maní.",
+      "label": "Maní crocante sabor pizza",
+      "source": "Envase original: zingaras MANI CROCANTE PIZZA.png; catálogo, páginas 3–4.",
+      "other": "El catálogo registra maní con cobertura sabor pizza en 1 kg y 150 g."
+    },
+    {
+      "slug": "mani-crocante-jamon",
+      "name": "Maní crocante jamón",
+      "family": 3,
+      "image": "mani-jamon.png",
+      "weight": "150 g",
+      "desc": "Maní crocante sabor jamón. Una opción más para compartir y descubrir.",
+      "label": "Maní crocante sabor jamón",
+      "source": "Envase original: zingaras MANI CROCANTE JAMON.png; catálogo, página 4.",
+      "other": "El catálogo registra maní con cobertura sabor jamón en 1 kg y 150 g."
+    },
+    {
+      "slug": "conitos-twister",
+      "name": "Conitos Twister",
+      "family": 4,
+      "image": null,
+      "weight": null,
+      "desc": "Conitos Twister sabor queso intenso. Otra forma de elegir Zíngaras.",
+      "label": "Conitos Twister sabor queso intenso",
+      "source": "Catálogo suministrado, página 3.",
+      "other": "El catálogo registra 500 g y 70 g. No se recibió packshot individual. Clasificación provisional en Conitos; confirmar relación con Twisters."
+    },
+    {
+      "slug": "tutucas",
+      "name": "Tutucas súper dulces",
+      "family": 5,
+      "image": "tutuca.png",
+      "weight": "150 g",
+      "desc": "El lado dulce de la variedad. Tutucas para cambiar de gusto y seguir compartiendo.",
+      "label": "Tutuca",
+      "source": "Envase original: PLANILLA PRODUCTOS 2026.png; catálogo, página 5.",
+      "other": "La imagen recibida corresponde a Tutuca de 150 g. El catálogo también registra 1 kg."
+    },
+    {
+      "slug": "mani-tostado",
+      "name": "Maní tostado con sal",
+      "family": 3,
+      "image": null,
+      "weight": null,
+      "desc": "Maní tostado con sal y con piel. Descubrí otra opción para tu próxima pausa.",
+      "label": "Maní tostado con sal con piel",
+      "source": "Catálogo suministrado, página 5.",
+      "other": "El catálogo registra una presentación de 250 g. No se recibió packshot individual. Disponibilidad a confirmar."
+    }
+  ]
+}
